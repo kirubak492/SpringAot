@@ -1,1 +1,1 @@
-Go through the AOT.doc file and Remove the AOT.doc file while start the server 
+Go through the AOT.docx file and Remove the file while start the server 
